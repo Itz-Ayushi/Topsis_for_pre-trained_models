@@ -86,7 +86,6 @@ Bar graph representing TOPSIS scores of all models was generated using matplotli
 
 Using the TOPSIS multi-criteria decision making technique, **MobileBERT** was identified as the most suitable pre-trained model for text classification tasks. It achieves the best balance between performance metrics such as accuracy and F1 score along with computational efficiency such as smaller model size and faster inference time.
 
----
 
 
 ---
